@@ -1,2 +1,2 @@
 # Hello everyone
-i have start to learn github today.
+i just start to learn github today.
